@@ -1,0 +1,12 @@
+name: facemask
+dependencies:
+  - python=3.6 
+  - numpy
+  - pandas
+  - keras
+  - tensorflow
+  - scikit-learn
+  - matplotlib
+  - opencv
+# conda install pip
+# pip install imutils
